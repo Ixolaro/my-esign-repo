@@ -1,0 +1,21 @@
+{
+    "name": "some-apps",
+    "identifier": "xyz.ixol.myapps",
+    "sourceURL": "https://esign.yyyue.xyz/apps.json",
+    "apps": [
+        {
+            "name": "DolphiniOS",
+            "bundleIdentifier": "xyz.ixol.DolphiniOS",
+            "developerName": "ixol",
+            "version": "???",
+            "versionDate": "2022-10-26T00:00:00+08:00",
+            "versionDescription": "DolphiniOS on ESign+",
+            "downloadURL": "https://github.com/OatmealDome/dolphin/releases/tag/3.2.1",
+            "localizedDescription": "???",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        },
+
+}
