@@ -1,7 +1,7 @@
 {
     "name": "some-apps",
     "identifier": "xyz.ixol.myapps",
-    "sourceURL": "https://esign.yyyue.xyz/apps.json",
+    "sourceURL": "https://raw.githubusercontent.com/Ixolaro/my-esign-repo/main/app.json",
     "apps": [
         {
             "name": "DolphiniOS",
