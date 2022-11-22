@@ -1,21 +1,13 @@
 {
-    "name": "è½»æ¾ç­¾æº",
-    "identifier": "xyz.ixol.myapps",
-    "sourceURL": "https://raw.githubusercontent.com/Ixolaro/my-esign-repo/main/app.json",
+    "icon": "",
+    "name": "malo´s source",
     "apps": [
-        {
-            "name": "DolphiniOS",
-            "bundleIdentifier": "xyz.ixol.DolphiniOS",
-            "developerName": "ixol",
-            "version": "???",
-            "versionDate": "2022-10-26T00:00:00+08:00",
-            "versionDescription": "DolphiniOS on ESign+",
-            "downloadURL": "https://github.com/OatmealDome/dolphin/releases/tag/3.2.1",
-            "localizedDescription": "???",
-            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 7206362
-        },
-
-}
+      {
+        "title": "DolphiniOS",
+        "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
+        "url": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+        "bundleid": "org.otamealdome.dolphinios,
+        "completed": false
+      }
+    ]
+  }
